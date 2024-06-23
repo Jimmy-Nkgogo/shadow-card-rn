@@ -1,6 +1,6 @@
 {
   "name": "shadow-card-rn",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a card component with a shadow background and you have to include an image",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,9 @@
   "dependencies": {
     "@react-navigation/native": "^6.1.17",
     "react-native-shadow-cards": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jimmy-Nkgogo/shadow-card-rn.git"
   }
 }
