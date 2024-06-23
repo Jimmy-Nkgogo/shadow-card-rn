@@ -9,5 +9,3 @@ Install the package using npm:
 npm install shadow-card-rn
 
 ### Usage
-
-Import ImageComponent in your React Native code:

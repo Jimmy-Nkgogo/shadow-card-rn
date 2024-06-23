@@ -1,20 +1,16 @@
-import { StyleSheet, Text, View } from "react-native";
-import ImageComponent from "shadow-card-rn";
+import { View } from "react-native";
+import ImageCard from "shadow-card-rn";
 
 const HomeScreen = () => {
   return (
     <View>
-      <View style={styles.container}>
-        <ImageComponent
+        <ImageCard
           title="Pizza"
-          image={require("../assets/icon.png")}
-          location="Detail"
+          image={require("../assets/icon.png")} // add the image source
+          location="Detail" // this is the name of the screen you want to navigate to
         />
-      </View>
     </View>
   );
 };
 
 export default HomeScreen;
-
-const styles = StyleSheet.create({});

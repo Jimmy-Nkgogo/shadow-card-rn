@@ -7,7 +7,7 @@ import AppNavigation from "./navigation/AppNavigation";
 const App = () => {
   return (
     <NavigationContainer>
-      <AppNavigation/>
+      <AppNavigation />
     </NavigationContainer>
   );
 };
