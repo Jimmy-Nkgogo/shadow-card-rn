@@ -20,9 +20,9 @@ This is how the App.js should look like
 
 Your navigation should be similar to this
 
-![Screenshot of App Js.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
+![Screenshot of App Js.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/app_nav.png?token=GHSAT0AAAAAACQ7ONKYNLDRDUWTTFZ5DYFCZTX4T2A)
 
 
 This is how the package.json should look like
 
-![Screenshot of package.json.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
+![Screenshot of package.json.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/package.json.png?token=GHSAT0AAAAAACQ7ONKZPEPGT7RYNBRXF2TAZTX4THQ)
