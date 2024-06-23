@@ -6,7 +6,7 @@ const HomeScreen = () => {
     <View>
         <ImageCard
           title="Pizza"
-          image={require("../assets/icon.png")} // add the image source
+          image={require("../assets/icon.png")} // add the image 
           location="Detail" // this is the name of the screen you want to navigate to
         />
     </View>

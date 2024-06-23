@@ -9,3 +9,6 @@ Install the package using npm:
 npm install shadow-card-rn
 
 ### Usage
+
+![Screenshot of the code snippet.]('./code_snippet.png)
+
