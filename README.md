@@ -10,5 +10,6 @@ npm install shadow-card-rn
 
 ### Usage
 
-![Screenshot of the code snippet.]('./code_snippet.png)
+![Screenshot of the code snippet.]('./assets/code_snippet.png)
 
+## Application structure 
