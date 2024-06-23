@@ -10,6 +10,19 @@ npm install shadow-card-rn
 
 ### Usage
 
-![Screenshot of the code snippet.]('./assets/code_snippet.png)
+![Screenshot of the code snippet.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
 
-## Application structure 
+## Application structure
+
+This is how the App.js should look like
+
+![Screenshot of App Js.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
+
+Your navigation should be similar to this
+
+![Screenshot of App Js.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
+
+
+This is how the package.json should look like
+
+![Screenshot of package.json.](https://raw.githubusercontent.com/Jimmy-Nkgogo/shadow-card-rn/master/assets/code_snippet.png?token=GHSAT0AAAAAACQ7ONKZIQKUFZQ7LVROPMTAZTX4KCQ)
